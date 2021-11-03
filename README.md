@@ -4,7 +4,7 @@ Note-taking is the practice of recording information from different sources and 
 
 # Demo
 
-[](./notekeeper.PNG)
+![](./notekeeper.PNG)
 
 
 # Contribution 
